@@ -8,6 +8,7 @@
     grid-template-columns: auto 1fr;
     margin: 2rem;
     container: card / inline-size ;
+    max-width: 800px;
 }
 
 img{
@@ -28,6 +29,7 @@ img{
     grid-column: 2/-1;
     justify-content: space-between;
     grid-row: 1;
+    margin-left: 5px;
 }
 
 .delivery_img{
